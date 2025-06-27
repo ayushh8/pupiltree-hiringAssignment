@@ -19,8 +19,7 @@ This project implements a conversational AI agent for hotel bookings, rescheduli
 
 ### 1. Clone the Repository
 ```
-git clone <your-forked-repo-url>
-cd <repo-directory>
+git clone https://github.com/ayushh8/pupiltree-hiringAssignment
 ```
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
@@ -103,6 +102,3 @@ graph TD
 - Watch your FastAPI and ngrok logs for incoming requests and responses.
 
 ---
-
-## Contact
-For questions or issues, please open an issue or contact the project maintainer. 
